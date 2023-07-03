@@ -1,0 +1,6 @@
+body {
+    background: url("../images/blog3.png");
+    background-repeat: no-repeat;
+    -moz-background-size: 100% 100%;
+    background-size: cover;
+}
